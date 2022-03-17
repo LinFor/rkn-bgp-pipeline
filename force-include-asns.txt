@@ -1,0 +1,27 @@
+# https://bgpview.io/
+
+
+AS13443 # linkedin
+AS14413 # linkedin
+AS20049 # linkedin
+AS20366 # linkedin
+AS40793 # linkedin
+AS55163 # linkedin
+AS132406 # linkedin
+AS132466 # linkedin
+AS137709 # linkedin
+AS197613 # linkedin
+AS202745 # linkedin
+
+AS26486 # pornhub
+AS30361 # pornhub
+
+AS32934 # facebook
+AS54115 # facebook-corp
+AS63293 # facebook-offnet
+AS149642 # facebook-as
+
+AS13414 # twitter
+AS35995 # twitter
+AS54888 # twitter
+AS63179 # twitter
